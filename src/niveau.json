@@ -1,0 +1,30 @@
+{
+    "niveaux": [
+        {
+            "nom": "jeux1",
+            "instruction": "inst_sphinx",
+            "background": "sphinx",
+            "support": "carotte",
+
+
+
+            "nez1": "nez1",
+            "nez2": "nez2",
+            "nez3": "nez3",
+            "background": "sphinx"
+                    },
+        {
+            "nom": "jeux2",
+            "instruction": "inst_newton",
+            "background": "background_newton",
+            "font": {
+                "font": "40px Arial",
+                "fill": "#FFCC00",
+                "stroke": "#333",
+                "strokeThickness": 5,
+                "align": "center"
+            }
+                    }
+                ]
+
+}
